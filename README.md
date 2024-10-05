@@ -30,3 +30,13 @@ Steps to replicate the entire procedure on local machines :)
 A lot about cancer and Fine Tuning. Apparently, there are related concepts like Meta Learning and Multi Task Learning using the scope can be increased to multiple cancers
 ## What's next for Detect Melonoma Cancer
 TO have an higher accuracy and more variety in this fight against cancer
+
+## Tech Stack
+Python, Gradio, Hugging Face, PyTorch(Torch)
+## Impact
+1. **Early Detection and Increased Survival Rates**: 
+   By using AI-powered skin cancer screening, we’ve enabled early detection of melanoma, leading to timely treatments that dramatically improve patient survival rates. Catching melanoma in its early stages reduces mortality by over 90%, changing lives for the better.
+2. **Accessible Healthcare**: 
+   Our solution brings advanced diagnostic tools to people regardless of geographic or socioeconomic barriers. By providing a user-friendly, accessible platform, even individuals in remote or underserved communities can benefit from early screening without needing to visit specialists.
+3. **Global Health Awareness**: 
+   Beyond just technology, the project raises global awareness about the dangers of melanoma and the importance of early detection. It encourages public education campaigns and supports communities in understanding the risk factors associated with skin cancer.
